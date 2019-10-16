@@ -1,0 +1,15 @@
+.animal {
+  width: 200px;
+  float: left;
+  border: 2px solid orange;
+  padding: 12px;
+  margin:8px;
+}
+
+.animal img {
+  width:180px;
+}
+.animal .about{
+  font-style: italic;
+  font-weight: lighter;
+}
